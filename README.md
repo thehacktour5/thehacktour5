@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently improving my competitive programming skills.
 
-- 👯 I’m looking to collaborate on **back-end projects**
-
 - 📫 How to reach me: **thehacktour@gmail.com**
 
-- ⚡ What I like to do: **Competitive programming, open source and work out!**
+- ⚡ What I like to do: **Competitive programming and martial arts!**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
